@@ -1,0 +1,8 @@
+C:\Users\far\source\repos\While_loop_authentication\While_loop_authentication\bin\Debug\While_loop_authentication.exe.config
+C:\Users\far\source\repos\While_loop_authentication\While_loop_authentication\bin\Debug\While_loop_authentication.exe
+C:\Users\far\source\repos\While_loop_authentication\While_loop_authentication\bin\Debug\While_loop_authentication.pdb
+C:\Users\far\source\repos\While_loop_authentication\While_loop_authentication\obj\Debug\While_loop_authentication.csproj.AssemblyReference.cache
+C:\Users\far\source\repos\While_loop_authentication\While_loop_authentication\obj\Debug\While_loop_authentication.csproj.SuggestedBindingRedirects.cache
+C:\Users\far\source\repos\While_loop_authentication\While_loop_authentication\obj\Debug\While_loop_authentication.csproj.CoreCompileInputs.cache
+C:\Users\far\source\repos\While_loop_authentication\While_loop_authentication\obj\Debug\While_loop_authentication.exe
+C:\Users\far\source\repos\While_loop_authentication\While_loop_authentication\obj\Debug\While_loop_authentication.pdb

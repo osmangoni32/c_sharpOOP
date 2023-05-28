@@ -1,0 +1,8 @@
+C:\Users\far\source\repos\Array_StudentGrade(Result)\Array_StudentGrade(Result)\bin\Debug\Array_StudentGrade(Result).exe.config
+C:\Users\far\source\repos\Array_StudentGrade(Result)\Array_StudentGrade(Result)\bin\Debug\Array_StudentGrade(Result).exe
+C:\Users\far\source\repos\Array_StudentGrade(Result)\Array_StudentGrade(Result)\bin\Debug\Array_StudentGrade(Result).pdb
+C:\Users\far\source\repos\Array_StudentGrade(Result)\Array_StudentGrade(Result)\obj\Debug\Array_StudentGrade(Result).csproj.AssemblyReference.cache
+C:\Users\far\source\repos\Array_StudentGrade(Result)\Array_StudentGrade(Result)\obj\Debug\Array_StudentGrade(Result).csproj.SuggestedBindingRedirects.cache
+C:\Users\far\source\repos\Array_StudentGrade(Result)\Array_StudentGrade(Result)\obj\Debug\Array_StudentGrade(Result).csproj.CoreCompileInputs.cache
+C:\Users\far\source\repos\Array_StudentGrade(Result)\Array_StudentGrade(Result)\obj\Debug\Array_StudentGrade(Result).exe
+C:\Users\far\source\repos\Array_StudentGrade(Result)\Array_StudentGrade(Result)\obj\Debug\Array_StudentGrade(Result).pdb
